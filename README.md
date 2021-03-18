@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @fabiolins1995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá, meu nome é Fábio :D 🖥
 
-<!---
-fabiolins1995/fabiolins1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiolins1995/)](https://www.linkedin.com/in/fabiolins1995/)
+
+### Sobre mim
+Tenho 25 anos, sou técnico em informática, estudante de análise e desenvolvimento de sistemas pela Unesa e desenvolvedor front-end.
+Apaixonado por html, css e javascript. No momento estudando react.js e node js.
+
+[![Currículo Badge](https://img.shields.io/badge/-Currículo-green?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995/fabiolins1995/files/6167294/Fabio-Lins-2021.pdf)
+
+Meu_Currículo
+
+[Fábio-Lins-2021.pdf]
+
+
