@@ -8,9 +8,6 @@ Tenho 25 anos, sou técnico em informática, estudante de análise e desenvolvim
 Apaixonado por html, css e javascript. No momento estudando react.js e node js.
 
 [![Currículo Badge](https://img.shields.io/badge/-Currículo-green?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995/fabiolins1995/files/6167294/Fabio-Lins-2021.pdf)
-
-Meu_Currículo
-
-[Fábio-Lins-2021.pdf]
+[![E-mail Badge](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](fabio.orlandini@yahoo.com.br)
 
 
