@@ -5,7 +5,7 @@
 
 ### Sobre mim
 Tenho 25 anos, sou estudante de análise e desenvolvimento de sistemas pela Universidade Estácio de Sá e desenvolvedor front-end.
-Apaixonado por html, css e javascript. No momento estudando reactJS e nodeJS.
+No momento estudando html, css, javascript, reactJS e nodeJS.
 
 [![Currículo Badge](https://img.shields.io/badge/-Currículo-darkgreen?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995/fabiolins1995/files/6168208/fabio_lins_2021.pdf)
 [![E-mail Badge](https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](mailto:fabio.orlandini@yahoo.com.br)
