@@ -1,6 +1,6 @@
 # Olá, meu nome é Fábio :D 🖥
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiolins1995/)](https://www.linkedin.com/in/fabiolins1995/)
 
 ### Sobre mim
