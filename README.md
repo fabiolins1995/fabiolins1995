@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiolins1995/)](https://www.linkedin.com/in/fabiolins1995/)
 
 ### Sobre mim
-Tenho 25 anos, sou estudante de tecnologia a 2 anos.
-No momento estudando Html 5, Css 3, Javascript e React.JS .
+Tenho 26 anos, sou estudante de tecnologia a 3 anos.
+No momento estudando Html 5, Css 3, Javascript e React.JS e Redux.
 * Desenvolvedor Front-End júnior na LJTI Consultoria e Desenvolvimento.
 * Técnico em Informática pelo Senac.
 * Cursando o segundo semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
