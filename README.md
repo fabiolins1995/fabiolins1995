@@ -11,7 +11,7 @@ No momento estudando Html 5, Css 3, Javascript e React.JS e Redux.
 * Cursando o segundo semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
 
-<!-- [![Currículo Badge](https://img.shields.io/badge/-Currículo-darkgreen?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](https://github.com/fabiolins1995/fabiolins1995/files/6168208/fabio_lins_2021.pdf) -->
+[![Currículo Badge]()]() Atualizando Currículo. Aguarde! :)
 [![E-mail Badge](https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](mailto:fabio.orlandini@yahoo.com.br)
 
 
