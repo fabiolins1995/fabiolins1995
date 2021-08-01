@@ -10,11 +10,11 @@ No momento estudando Html 5, Css 3, Javascript e React.JS e Redux.
 * Técnico em Informática pelo Senac.
 * Cursando o segundo semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
-<span>
+<div style="display: inline_block"><br>
   <a href="https://github.com/fabiolins1995">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolins1995&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolins1995&layout=compact&langs_count=16&theme=dark"/>
-</span>
+</div>
   
 [![Currículo Badge](https://img.shields.io/badge/-Currículo-red?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](https://drive.google.com/file/d/16-_zOdO--CTNpg-ID3h5aJufwtqkgCnZ/view?usp=sharing)
 [![E-mail Badge](https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](mailto:fabio.orlandini@yahoo.com.br)
