@@ -6,7 +6,7 @@
 ### Sobre mim
 Tenho 26 anos, sou estudante de tecnologia a 3 anos.
 No momento estudando Javascript, React.JS, React Native e Redux.
-* Desenvolvedor Front-End júnior na LJTI Consultoria e Desenvolvimento.
+* Desenvolvedor Front-End Júnior na LJTI Consultoria e Desenvolvimento.
 * Técnico em Informática pelo Senac.
 * Cursando o segundo semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
