@@ -5,7 +5,7 @@
 
 ### Sobre mim:
 Tenho 26 anos, sou estudante de tecnologia a 3 anos.
-No momento estudando Javascript, React.JS, React Native e Redux.
+No momento estudando Javascript, React.JS e React Native.
 * Desenvolvedor Front-End Júnior.
 * Técnico em Informática pelo Senac.
 * Cursando o segundo semestre em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
