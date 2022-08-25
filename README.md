@@ -4,7 +4,7 @@
 
 
 ### Sobre mim:
-Tenho 26 anos, sou estudante de tecnologia desde 2019.
+Tenho 27 anos, sou estudante de tecnologia desde 2019.
 No momento estudando Javascript, React.JS e React Native.
 * Desenvolvedor Front-End.
 * Técnico em Informática pelo Senac.
@@ -31,7 +31,7 @@ No momento estudando Javascript, React.JS e React Native.
   </div>
   <br>
      
-[![Currículo Badge](https://img.shields.io/badge/-Currículo-red?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](https://drive.google.com/file/d/1NuqT4_aXPcVYWD721NyS2nBalRwg6abp/view?usp=sharing)
+[![Currículo Badge](https://img.shields.io/badge/-Currículo-red?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)]()
 [![E-mail Badge](https://img.shields.io/badge/-Email-purple?style=for-the-badge&logo=appveyor&logoColor=white&link=https://github.com/fabiolins1995)](mailto:fabio.orlandini@yahoo.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiolins1995/)](https://www.linkedin.com/in/fabiolins1995/)
 
