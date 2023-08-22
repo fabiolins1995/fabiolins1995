@@ -4,11 +4,11 @@
 
 
 ### Sobre mim:
-Tenho 27 anos, sou estudante de tecnologia desde 2019.
+Tenho 28 anos, sou estudante de tecnologia desde 2019.
 No momento estudando Javascript, React.JS e React Native.
 * Desenvolvedor Front-End.
 * Técnico em Informática pelo Senac.
-* Cursando Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
+* Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
 <div>
   <a href="https://github.com/fabiolins1995">
