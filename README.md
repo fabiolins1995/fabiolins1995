@@ -4,9 +4,9 @@
 
 
 ### Sobre mim:
-Tenho 28 anos, sou estudante de tecnologia desde 2019.
-No momento estudando Javascript, React.JS e React Native.
-* Desenvolvedor Front-End.
+Tenho 28 anos e trabalho com tecnologia desde 2019.
+No momento estudando Javascript, React.JS e Php.
+* Desenvolvedor Full-Stack.
 * Técnico em Informática pelo Senac.
 * Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
 
