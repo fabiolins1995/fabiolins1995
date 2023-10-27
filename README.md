@@ -5,7 +5,7 @@
 
 ### Sobre mim:
 Tenho 28 anos e trabalho com tecnologia desde 2019.
-No momento estudando Javascript, React.JS e Php.
+No momento estudando Javascript, Vue.Js e Php.
 * Desenvolvedor Full-Stack.
 * Técnico em Informática pelo Senac.
 * Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá.
